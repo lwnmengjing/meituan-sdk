@@ -1,2 +1,2 @@
 # meituan-sdk
-美团外卖SDK
+美团SDK
